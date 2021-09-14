@@ -22,3 +22,6 @@
 
 NOTE : PYTHON CODE IS WRITTEN FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT OPTIMIZED, NOR WRITTEN BY A PROFESSIONAL PYTHON PROGRAMMER.
 
+<br><br>
+![SalesOrder_SampleDocument.jpg](https://github.com/sarma1807/mongo-python-driver/blob/main/31_SalesApp_AutoSalesGenerator/SalesOrder_SampleDocument.jpg)
+
