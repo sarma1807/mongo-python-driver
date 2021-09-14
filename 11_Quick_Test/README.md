@@ -14,6 +14,7 @@ mongo@oramad.OracleByExample.com:~ $ python quick_test.py
 Connected to MongoDB Server Version : 5.0.2
 Connection String : mongodb://192.168.1.151:1807/
 mongo@oramad.OracleByExample.com:~ $
+```
 
 ---
 
